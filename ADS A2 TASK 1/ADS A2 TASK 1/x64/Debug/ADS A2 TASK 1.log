@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(154,99): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(154,99): warning C4244:         with
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(154,99): warning C4244:         [
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(154,99): warning C4244:             _Rep=__int64
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(154,99): warning C4244:         ]
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(232,103): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(232,103): warning C4244:         with
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(232,103): warning C4244:         [
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(232,103): warning C4244:             _Rep=__int64
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(232,103): warning C4244:         ]
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(276,99): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(276,99): warning C4244:         with
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(276,99): warning C4244:         [
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(276,99): warning C4244:             _Rep=__int64
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\ADS A2 TASK 1\Main.cpp(276,99): warning C4244:         ]
+  ADS A2 TASK 1.vcxproj -> C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 1\x64\Debug\ADS A2 TASK 1.exe
